@@ -46,7 +46,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Desarrollador Frontend','Desarrollador Backend'],
+    strings: ['Desarrollador Backend','Desarrollador Frontend'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
